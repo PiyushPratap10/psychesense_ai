@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy
+bcrypt
+pydantic
+motor
+asyncpg
+pyjwt
+dotenv
+huggingface_hub
